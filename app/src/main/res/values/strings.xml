@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TOP-10 SEARCH GOOGLE</string>
+    <string name="btn_name">Search</string>
+    <string name="edittext_tips">Keywords: car, number...</string>
+</resources>
